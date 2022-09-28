@@ -29,12 +29,12 @@
 - [100 Days of Python](https://github.com/nzmksk/100-Days-of-Python) -> Challenge myself to code in Python for 100 consecutive days
 - [TransCode](https://github.com/nzmksk/TransCode) -> To create a code dictionary for JavaScript-Python
 ---
-♟ Hobbies:
-- Coding
-- Playing piano
-- Playing chess
-- Reading books
-- Learning Japanese language
+🏀 Hobbies:
+- Coding 👨🏻‍💻
+- Playing piano 🎹
+- Playing chess ♟
+- Reading books 📖
+- Learning Japanese language 🔰
 ---
 
 &#x1f4c8; My GitHub Stats
