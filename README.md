@@ -24,11 +24,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg" alt="Google Analytics" width="25" height="25">
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="25" height="25">
 <img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" alt="IBM SPSS Statistics" width="25" height="25">
-
-
-
-
-
 ---
 🌏 Ongoing Personal Projects:
 - [100 Days of Python](https://github.com/nzmksk/100-Days-of-Python) -> Challenge myself to code in Python for 100 consecutive days
@@ -44,7 +39,8 @@
 
 &#x1f4c8; My GitHub Stats
 
-[![nzmksk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzmksk&theme=default&show_icons=true&include_all_commits=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
+[![nzmksk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzmksk&theme=default&show_icons=true&include_all_commits=true&count_private=true&card_width=500&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzmksk&theme=default&layout=compact&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzmksk&theme=default&layout=compact&card_width=450&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=nzmksk&border_radius=30)](https://git.io/streak-stats)
