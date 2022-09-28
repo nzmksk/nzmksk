@@ -31,7 +31,7 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzmksk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![nzmksk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzmksk&theme=default&show_icons=true&include_all_commits=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
-[![nzmksk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzmksk&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzmksk&theme=default&layout=compact&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
