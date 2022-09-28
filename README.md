@@ -1,15 +1,25 @@
 #### Hello, world! 👋🏻 I'm Hafiz, a self-taught programmer who loves playing chess.
 - 👨🏻‍💻 Currently a software engineer intern
 - 🌱 Currently learning:
-  - React
-  - Django
+  - <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="25" height="25"> React
+  - <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="React" width="25" height="25"> Django
 ---
 🧰 Tech Stacks
-<img src="https://worldvectorlogo.com/download/html-1.svg" alt="HTML5" width="50" height="50"><img src="https://worldvectorlogo.com/download/css-3.svg" alt="CSS3" width="50" height="50"> <img src="https://worldvectorlogo.com/download/logo-javascript.svg" alt="JavaScript" width="50" height="50"> <img src="https://worldvectorlogo.com/download/python-5.svg" alt="Python" width="50" height="50"> <img src="https://worldvectorlogo.com/download/sqlite.svg" alt="SQLite" width="50" height="50"> <img src="https://worldvectorlogo.com/download/excel-4.svg" alt="MS Excel" width="50" height="50"> <img src="https://worldvectorlogo.com/download/google-sheets-full-logo-1.svg" alt="Google Sheets" width="50" height="50"> <img src="https://worldvectorlogo.com/download/google-analytics-4.svg" alt="Google Analytics" width="50" height="50"> <img src="https://worldvectorlogo.com/download/tableau-software.svg" alt="Tableau" width="50" height="50">
+<br>
+<br>
+<img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="25" height="25">
+<img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="25" height="25">
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="25" height="25">
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="25" height="25">
+<img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" width="25" height="25">
+<img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="MS Excel" width="25" height="25">
+<img src="https://cdn.worldvectorlogo.com/logos/google-sheets-full-logo-1.svg" alt="Google Sheets" width="25" height="25">
+<img src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg" alt="Google Analytics" width="25" height="25">
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="25" height="25">
 ---
 🌏 Ongoing personal projects:
-- 100 Days of Python -> Challenge myself to code in Python for 100 consecutive days
-- TransCode -> To create a code dictionary for JavaScript-Python
+- [100 Days of Python](https://github.com/nzmksk/100-Days-of-Python) -> Challenge myself to code in Python for 100 consecutive days
+- [TransCode](https://github.com/nzmksk/TransCode) -> To create a code dictionary for JavaScript-Python
 ---
 ♟ Hobbies:
 - Coding
