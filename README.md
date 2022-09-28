@@ -39,8 +39,8 @@
 
 &#x1f4c8; My GitHub Stats
 
-[![nzmksk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzmksk&theme=default&show_icons=true&include_all_commits=true&count_private=true&card_width=500&border_radius=30)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=nzmksk&border_radius=30&card_width=500)](https://git.io/streak-stats)
+[![nzmksk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzmksk&theme=default&show_icons=true&include_all_commits=true&count_private=true&card_width=400&border_radius=30)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=nzmksk&border_radius=30&card_width=300)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzmksk&theme=default&layout=compact&card_width=950&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nzmksk&theme=default&layout=compact&card_width=850&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
 
 
