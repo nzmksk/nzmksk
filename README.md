@@ -2,7 +2,7 @@
 - 👨🏻‍💻 Currently a software engineer intern
 - 🌱 Currently learning:
   - <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="25" height="25"> React
-  - <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="React" width="25" height="25"> Django
+  - <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="25" height="25"> Django
 ---
 🧰 Tech Stacks
 <br>
@@ -11,13 +11,26 @@
 <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="25" height="25">
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript" width="25" height="25">
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="25" height="25">
-<img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="SQLite" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="25" height="25">
 <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="MS Excel" width="25" height="25">
-<img src="https://cdn.worldvectorlogo.com/logos/google-sheets-full-logo-1.svg" alt="Google Sheets" width="25" height="25">
+<img src="https://cdn.worldvectorlogo.com/logos/google-sheets-full-logo-1.svg" alt="Google Sheets" width="120" height="25">
 <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg" alt="Google Analytics" width="25" height="25">
 <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="25" height="25">
+<img src="https://github.com/devicons/devicon/blob/master/icons/spss/spss-original.svg" alt="IBM SPSS Statistics" width="25" height="25">
+
+
+
+
+
 ---
-🌏 Ongoing personal projects:
+🌏 Ongoing Personal Projects:
 - [100 Days of Python](https://github.com/nzmksk/100-Days-of-Python) -> Challenge myself to code in Python for 100 consecutive days
 - [TransCode](https://github.com/nzmksk/TransCode) -> To create a code dictionary for JavaScript-Python
 ---
@@ -29,7 +42,7 @@
 - Learning Japanese language
 ---
 
-## &#x1f4c8; My GitHub Stats
+&#x1f4c8; My GitHub Stats
 
 [![nzmksk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nzmksk&theme=default&show_icons=true&include_all_commits=true&count_private=true&card_width=500)](https://github.com/anuraghazra/github-readme-stats)
 
