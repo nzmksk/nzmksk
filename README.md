@@ -26,7 +26,7 @@
 ---
 🌏 Ongoing Personal Projects:
 - [Django Booktime](https://github.com/nzmksk/django-booktime) -> Developing an e-commerce platform to sell online books using Django and Bootstrap
-- [React Contact Manager App](https://github.com/nzmksk/react-contact-manager) -> Building a simple front-end server for contact manager using React.js and Semantic UI
+- [React News Search App](https://github.com/nzmksk/react-news-search) -> Building a simple front-end server for news search using React.js and Semantic UI
 - [100 Days of Python](https://github.com/nzmksk/100-Days-of-Python) -> Challenge myself to code in Python for 100 consecutive days
 ---
 🏀 Hobbies:
