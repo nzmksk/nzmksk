@@ -3,10 +3,6 @@
 [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="25" height="25">](https://www.linkedin.com/in/mhz96)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter" width="25" height="25">](https://twitter.com/mssngnnja)
 
-- 🌱 Currently learning:
-  - <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="25" height="25"> React.js
-  - <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="25" height="25"> Django
-  - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="25" height="25"> TypeScript
 ---
 🧰 Tech Stacks
 <br>
@@ -24,16 +20,17 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="25" height="25">
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" width="25" height="25">
 ---
-🌏 Ongoing Personal Projects:
+🌏 Ongoing Projects:
 - [Django Booktime](https://github.com/nzmksk/django-booktime) -> Developing an e-commerce platform to sell online books using Django and Bootstrap
-- [React News Search App](https://github.com/nzmksk/react-news-search) -> Building a simple front-end server for news search using React.js and Semantic UI
+- [React News Search App](https://github.com/nzmksk/react-news-search) -> Building a simple front-end server for news search using React.js and Material UI
 - [100 Days of Python](https://github.com/nzmksk/100-Days-of-Python) -> Challenge myself to code in Python for 100 consecutive days
 ---
-🏀 Hobbies:
-- Coding 👨🏻‍💻
-- Reading books 📖
-- Playing piano 🎹
-- Playing chess ♟
+🌱 Currently learning:
+- <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node" width="25" height="25"> Node.js
+- <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="25" height="25"> React.js
+- <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="25" height="25"> Material UI
+- <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="25" height="25"> Django
+- <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="25" height="25"> TypeScript
 ---
 
 &#x1f4c8; My GitHub Stats
