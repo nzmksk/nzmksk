@@ -1,4 +1,4 @@
-#### Hello, world! 👋🏻 I'm Hafiz, a self-taught programmer with health science background.
+#### Hello, world! 👋🏻 I'm Hafiz, a self-taught programmer with health science background. Currently a BeSquare Graduate Trainee.
 
 [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="25" height="25">](https://www.linkedin.com/in/mhz96)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" alt="Twitter" width="25" height="25">](https://twitter.com/mssngnnja)
@@ -15,6 +15,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="25" height="25">
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="25" height="25">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code" width="25" height="25">
+<img src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg" alt="Microsoft Visual Studio" width="25" height="25">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="25" height="25">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Windows Powershell" width="25" height="25">
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="Adobe Illustrator" width="25" height="25">
@@ -31,6 +32,8 @@
 - <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="25" height="25"> Material UI
 - <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="25" height="25"> Django
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="25" height="25"> TypeScript
+- <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart" width="25" height="25"> Dart
+- <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="25" height="25"> Flutter
 ---
 
 &#x1f4c8; My GitHub Stats
