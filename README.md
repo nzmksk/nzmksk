@@ -43,6 +43,7 @@ Profile links 👇🏼
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="25" height="25"> TypeScript
 - <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart" width="25" height="25"> Dart
 - <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="25" height="25"> Flutter
+- <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="25" height="25"> C++
 ---
 
 ## &#x1f4c8; My GitHub Stats
