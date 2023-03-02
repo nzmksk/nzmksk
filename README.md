@@ -40,6 +40,7 @@ Profile links 👇🏼
 - <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="25" height="25"> React.js
 - <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="25" height="25"> Material UI
 - <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" alt="Django" width="25" height="25"> Django
+- <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="25" height="25"> PostgreSQL
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="25" height="25"> TypeScript
 - <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart" width="25" height="25"> Dart
 - <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="25" height="25"> Flutter
