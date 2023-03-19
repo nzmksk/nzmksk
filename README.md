@@ -2,8 +2,8 @@
 #### Hello, world! 👋🏻
 
 I'm Hafiz, a self-taught programmer with health science background. Currently a BeSquare Graduate Trainee training in five different domains:
-- Front-end development
 - Product design
+- Front-end development
 - Mobile development
 - Back-end development
 - Quality assurance
@@ -44,6 +44,7 @@ Profile links 👇🏼
 - <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="25" height="25"> TypeScript
 - <img src="https://cdn.worldvectorlogo.com/logos/dart.svg" alt="Dart" width="25" height="25"> Dart
 - <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="Flutter" width="25" height="25"> Flutter
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/400px-Figma-logo.svg.png?20190122211436" alt="Figma" width="20" height="25"> Figma
 - <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="25" height="25"> C++
 ---
 
